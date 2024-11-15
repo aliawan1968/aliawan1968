@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aliawan1968
+- 👀 I’m interested in game development, robot programming and automating the usual stuff
+- 🌱 I’m currently learning game development on godot open source engine and everything in the game development context
+- 📫 if you want to reach me you can here my whatsapp number PK +923029167776
